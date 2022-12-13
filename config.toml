@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://samperay.github.io/devsreops/'
 languageCode = 'en-us'
 title = 'devsreops'
 theme = 'etch'
