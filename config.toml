@@ -1,6 +1,6 @@
 baseURL = 'https://samperay.github.io/devsreops/'
 languageCode = 'en-us'
-title = 'Devops-sre'
+title = 'Devsreops'
 theme = 'etch'
 enableInlineShortcodes = true
 pygmentsCodeFences = true
