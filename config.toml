@@ -1,5 +1,28 @@
 baseURL = 'https://samperay.github.io/devsreops/'
 languageCode = 'en-us'
-title = 'devsreops'
+title = 'Devops-sre'
 theme = 'etch'
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
+[params]
+  description = "Development Operations"
+  copyright = "Copyright © 2023 Sunil Amperayani"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
